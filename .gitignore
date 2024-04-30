@@ -22,3 +22,14 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+
+.DS_Store
+
+#syndicate files
+.syndicate
+logs/
+
+task02/.syndicate-config-dev/syndicate.yml
+task02/.syndicate-config-dev/syndicate_aliases.yml
+task02/.syndicate-config-dev/logs/
